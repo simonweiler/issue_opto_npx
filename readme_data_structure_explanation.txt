@@ -51,6 +51,13 @@ session_aligned
 
 
 
+cotex_id = IDs for cortical layers based on Allen Brain Atlas 
+
+cortexmua_id = Multi Unit activity IDs for cortical layers based on Allen Brain Atlas 
+
+cortex_depth = cortical depth of single units 
+
+cortexmua_depth = cortical depth of multi units 
 
 
 
